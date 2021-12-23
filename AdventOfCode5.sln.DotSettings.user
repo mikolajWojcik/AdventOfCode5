@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cac4be7d_002D4a9d_002D426c_002Daa01_002Dbf64a0532251/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.LineTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.LineTest.Test2&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.LineTest.Test3&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.CanvasTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.LineTest.Test4&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3097165D-28B2-473F-9DC3-C9F717E7BEF8::.NETCoreApp,Version=v3.1::TestProject1.LineTest.Test5&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
